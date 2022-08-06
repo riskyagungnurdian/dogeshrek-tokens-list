@@ -14,7 +14,7 @@
     },
     "tokens": [
         {
-            "chainId": 2000,
+            "chainId": 43114,
             "address": "0x5eb9f3d24fe25c582fcec2a32aeb774ea8d47ae8",
             "decimals": 18,
             "name": "DogeShrek",
@@ -22,7 +22,7 @@
             "logoURI": "https://raw.githubusercontent.com/cyberminter/dogeshrek-tokens-list/main/tokens/dogeShrek.png"
         },
         {
-            "chainId": 2000,
+            "chainId": 43114,
             "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
             "decimals": 18,
             "name": "Wrapped Doge",

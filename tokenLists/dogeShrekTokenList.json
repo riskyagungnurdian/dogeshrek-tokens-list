@@ -23,11 +23,11 @@
         },
         {
             "chainId": 2000,
-            "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+            "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
             "decimals": 18,
             "name": "Wrapped Doge",
-            "symbol": "WDoge",
-            "logoURI": "https://raw.githubusercontent.com/cyberminter/dogeshrek-tokens-list/main/tokens/Dogecoin_Logo.png"
+            "symbol": "WWDoge",
+            "logoURI": "https://raw.githubusercontent.com/cyberminter/dogeshrek-tokens-list/main/tokens/addresses/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
         }
 
     ],
